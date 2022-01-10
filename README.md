@@ -8,7 +8,7 @@ After trying various online SQL tutorials, I wanted to test my knowledge by work
 
 ## **About the dataset** 
 
-- **Dataset**: [Online retail.xlsx](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/)
+- **Dataset**: [Online retail.xlsx](https://archive.ics.uci.edu/ml/machine-learning-databases/00352/) (42.2 MB)
 - **Description**: This contains transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
 
 The original xlsx file consists of 2 sheets - Year 2009-2010 & Year 2010-2011. For this project, I will be working with the data from the sheet **"Year 2009-2010" only**.
