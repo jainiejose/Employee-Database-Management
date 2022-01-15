@@ -1,4 +1,4 @@
-# Project 1 - SQL Data Exploration (Part A)
+# Project 1 - SQL Queries (Part A)
 **Introduction**
 
 After trying various online SQL tutorials, I wanted to test my knowledge by working on a new dataset and try my hacking skills on some SQL queries. This project makes use of data sourced from [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), a popular repository for machine learning datasets. In particular, we will be using the ["Online Retail Data Set"](https://archive.ics.uci.edu/ml/datasets/online+retail). My interest in exploring this dataset is based on my previous work experience at ShopBack. [ShopBack](https://www.shopback.sg/) is a Singapore based ecommerce loyalty platform serving over 30 million shoppers across 9 markets in Asia Pacific. 
