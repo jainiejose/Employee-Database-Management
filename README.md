@@ -13,6 +13,7 @@ After trying various online SQL tutorials, I wanted to test my knowledge by work
 I created two tables for practicing my SQL queries and uploaded the information on a different file.
 
 (1) EmployeeDemographics
+
 (2) EmployeeSalary
 
 
