@@ -1,0 +1,26 @@
+-- Employee details to the EmployeeDemographics table
+
+
+INSERT INTO EmployeeDemographics VALUES
+(102, 'Albert','Pardini', 23, 'Male'),
+(103,'David','Sullivan', 34, 'Male'),
+(104,'Patricia','Jackson', 32, 'Female'),
+(105,'Amy','Hart', 21, 'Female'),
+(106,'Sebastian', 'Wong', 37, 'Male'),
+(107, 'Marty', 'Ross',	32,	'Male'),
+(108,'Ellen',	'Moffatt', 35, 'Female'),
+(109,'George', 'Garcia', 31, 'Male'),
+(110,'Judy', 'Melinek', 30, 'Female'),
+(111,'Gregory', 'Suhr', 31, 'Male'),
+(112,'Raymond', 'Guzman', 29, 'Male'),
+(113,'Monica', 'Fields', 27, 'Female'),
+(114, 'Sharon', 'Mccole', 28, 'Female'),
+(115, 'Barbara', 'Garcia', 31, 'Female'),
+(116, 'Anna',	'Brown', 30, 'Female'),
+(117, 'Monique', 'Moyer', 38, 'Female'),
+(118, 'Mark',	'Gamble', 36, 'Male'),
+(119, 'Kevin', 'Burke', 39, 'Male'),
+(120, 'Luke',	'Tse', 40, 'Male')
+
+
+
