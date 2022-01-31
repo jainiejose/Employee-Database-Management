@@ -1,0 +1,25 @@
+
+
+
+
+INSERT INTO EmployeeSalary VALUES
+(101, 'Technology', 48000),
+(102, 'Technology', 35000),
+(103, 'HR', 20000),
+(104, 'Sales and Marketing', 21000),
+(105, 'Finance', 28000),
+(106,  'Technology', 36000),
+(107, 'Technology', 38000),
+(108, 'HR', 20000),
+(109, 'Operations', 22000),
+(110, 'Sales and Marketing', 25000),
+(111, 'Sales and Marketing', 25000),
+(112, 'Sales and Marketing', 25000),
+(113, 'Finance', 32000),
+(114, 'Finance', 32000),
+(115, 'HR', 28000),
+(116, 'Technology', 35000),
+(117, 'Technology', 35000),
+(118, 'Operations', 25000),
+(119, 'Operations', 25000),
+(120, 'Finance', 28000)
