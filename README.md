@@ -1,4 +1,4 @@
-# SQL Queries
+# Employee Database Management
 **Introduction**
 
 After trying various online SQL tutorials, I wanted to test my knowledge by working on a new dataset and try my hacking skills on some SQL queries. In this project, I created my own dataset. My interest in creating this dataset is based on my previous work experience back at ShopBack where I was working as an HR professional. [ShopBack](https://www.shopback.sg/) is a Singapore based ecommerce loyalty platform serving over 30 million shoppers across 9 markets in Asia Pacific.  
@@ -6,7 +6,7 @@ After trying various online SQL tutorials, I wanted to test my knowledge by work
 ## **About the dataset** 
 
 
-I created two tables for practicing my SQL queries and uploaded the information onto different files.
+I created two tables of employee information and uploaded the information onto different files and used MS SQL to practice my queries.
 
 (1) Employee Demographics
 
